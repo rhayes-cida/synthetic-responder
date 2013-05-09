@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Failer settings</title>
+<title>Synthetic Responder</title>
 </head>
 <body>
 
